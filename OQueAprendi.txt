@@ -1,0 +1,12 @@
+O Que Aprendi:
+1. É necessário fazer um processo para poder enviar seu trabalho aos outros devs através Git e GitHub.
+2. Há mais opções de "puxar" o main branch para minha rede local.
+
+O Que Tinha Esquecido:
+1. Como deixar o diretório mostrando "(main)" no GitBash.
+2. Voltando à trás no diretório usando " cd .. "
+
+O Que Posso Fazer Logo Em Seguida:
+1. Refazer aquilo que esquecemos com facilidade através de desafios e experimentos.
+2. Aprender com aqueles que têm mais experiência na área.
+3. Estar apto para fazer mais e ver meu progresso!
